@@ -14,6 +14,9 @@ Key Features:
 🔄 Filtering Techniques: To enhance the quality of sensor data, I've implemented advanced filtering methods such as the Butterworth filter, moving average filter, and circular median filter. These techniques help reduce noise and artifacts, leading to more reliable predictions.
 🌐 Integration of GNSS Data: By incorporating GNSS data, I've created a supervised learning framework that learns from both sensor readings and ground truth. This integration strengthens the model's ability to handle different indoor environments and scenarios.
 🚀 Continuous Improvement: I'm dedicated to continuous experimentation and innovation. I'm actively exploring novel architectures, experimenting with different pre-processing techniques, and fine-tuning hyperparameters to achieve results that surpass the baseline model's performance.
+🌟 Flutter App: I've created a Dart-based Flutter app for data collection. Fixed sampling rate ensures reliable data. Feel free to redevelop, experiment, and contribute. Let's innovate together! 💡
+
+Accurate direction estimation in indoor settings has wide applications. Join us to reshape indoor navigation. ⭐
 Why This Matters:
 
 Accurate direction estimation in indoor settings has a wide range of applications, from enhancing navigation apps to improving location-based services in large venues like malls and airports. My work aims to contribute to this evolving field by pushing the boundaries of what's possible with IMU sensors and GNSS data.
